@@ -137,7 +137,7 @@ class GridAdapter(var context: Context) :
     }
 
 
-    // Custom method to generate list of color name value pair
+    // Custom method to generate list data
     private fun images(): MutableList<Model> {
         var lists = mutableListOf(
             //perfect assembly
